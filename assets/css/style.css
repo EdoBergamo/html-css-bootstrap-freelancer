@@ -21,3 +21,12 @@
 .bg-gray {
     background-color: var(--bg-gray);
 }
+
+/* Main */
+.bg-aqua {
+    background-color: var(--bg-aqua);
+}
+
+.container .content{
+    height: 300px;
+}
