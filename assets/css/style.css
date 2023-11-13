@@ -40,3 +40,9 @@ img {
     padding: 0;
 }
 
+.line-star-black {
+    height: 0.2rem;
+    width: 4rem;
+    background-color: black;
+    padding: 0;
+}
