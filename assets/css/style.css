@@ -30,3 +30,16 @@
 .container .content{
     height: 300px;
 }
+
+.title-content {
+    height: 50px;
+    border: 1px dashed #000;
+    background-color: var(--bg-gray);
+}
+
+.card-content {
+    height: 250px;
+    background-color: #ff0000;
+    margin: 10px 0;
+    border-radius: 30px;
+} 
